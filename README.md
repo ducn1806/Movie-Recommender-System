@@ -7,3 +7,8 @@ This was the final project for Data Science with Python (CS677) course at Boston
 3. Content-Based Recommender
 4. Collaborative Filtering
 5. Hybrid Recommender
+
+
+### Intructions
+
+Since one of the datasets cannot be uploaded due to its big size, the instructions have been provided in the **netflix** folder.
